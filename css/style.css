@@ -89,7 +89,7 @@ transform: translateY(-20px);
 height: auto;	
 width:100%;
 padding: 30px 0 20px 0;
-background: #00abff;
+background: linear-gradient(to left, #00e0fe , #1107fe);
 position; relative;
 }
 
